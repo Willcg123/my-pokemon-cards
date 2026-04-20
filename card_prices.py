@@ -4,10 +4,16 @@ from typing import Optional
 import pandas as pd
 from multiprocessing import Pool, cpu_count
 import time
+import sqlite3
+from datetime import datetime
 
-# Configure SDK
-RestClient.configure('c6658313-1b80-4d04-a195-fd12fb820f84')
+# --- SDK WORKAROUND ---
+# Fix the SDK crash where 'updatedAt' is missing from some cards
+api_key = input("input API key: ")
+
+RestClient.configure(api_key)
 TCGPlayer.__dataclass_fields__['updatedAt'].type = Optional[str]
+TCGPlayer.__dataclass_fields__['updatedAt'].default = None
 
 def process_single_card(card):
     """Worker function to flatten card objects."""
@@ -19,7 +25,6 @@ def process_single_card(card):
             "rarity": getattr(card, 'rarity', 'Unknown'),
             "hp": getattr(card, 'hp', None),
             "types": ", ".join(card.types) if hasattr(card, 'types') and card.types else None,
-            # Adding set info to the card row for easier filtering later
             "set_id": card.set.id if hasattr(card, 'set') else None 
         }
         tcg = getattr(card, 'tcgplayer', None)
@@ -45,7 +50,7 @@ def main():
     all_card_rows = []
     MAX_RETRIES_PER_SET = 3
 
-    # Use multiprocessing pool for the card processing
+    # Use multiprocessing for the extraction
     with Pool(processes=cpu_count()) as pool:
         for idx, s_id in enumerate(set_ids):
             retry_count = 0
@@ -53,38 +58,54 @@ def main():
             
             while retry_count < MAX_RETRIES_PER_SET and not success:
                 try:
-                    print(f"[{idx+1}/{len(set_ids)}] Fetching cards for set: {s_id}...", end="\r")
+                    print(f"[{idx+1}/{len(set_ids)}] Fetching set: {s_id}...", end="\r")
                     
-                    # Fetch cards filtered by set ID
+                    # Fetch cards by set
                     cards_in_set = Card.where(q=f'set.id:{s_id}')
                     
                     if cards_in_set:
                         processed_cards = pool.map(process_single_card, cards_in_set)
-                        valid_rows = [r for r in processed_cards if r is not None]
-                        all_card_rows.extend(valid_rows)
+                        all_card_rows.extend([r for r in processed_cards if r is not None])
                     
                     success = True
                     
                 except Exception as e:
                     retry_count += 1
-                    wait_time = retry_count * 3
-                    print(f"\nError fetching set {s_id} (Attempt {retry_count}/{MAX_RETRIES_PER_SET}): {e}")
-                    if retry_count < MAX_RETRIES_PER_SET:
-                        time.sleep(wait_time)
-                    else:
-                        print(f"Skipping set {s_id} after {MAX_RETRIES_PER_SET} failures.")
+                    time.sleep(retry_count * 2)
+                    if retry_count >= MAX_RETRIES_PER_SET:
+                        print(f"\nSkipped set {s_id} after {MAX_RETRIES_PER_SET} fails.")
 
-    # Finalizing
     if all_card_rows:
         df = pd.DataFrame(all_card_rows)
-        print("\n\n--- Extraction Summary ---")
-        print(f"Total Cards Collected: {len(df)}")
-        print(f"Total Unique Sets Processed: {df['set_id'].nunique() if 'set_id' in df.columns else 0}")
-        print(df.head())
-        # Suggestion: Save periodically or at the end
-        df.to_csv("pokemon_inventory.csv", index=False)
+        
+        # --- ROBUST DATABASE LOGIC ---
+        print("\n\nSaving to SQLite database...")
+        df['date_fetched'] = datetime.now().strftime('%Y-%m-%d')
+        today_str = df['date_fetched'].iloc[0] 
+        
+        conn = sqlite3.connect('pokemon_market.db')
+        cursor = conn.cursor()
+
+        # 1. Check if table exists before trying to delete
+        cursor.execute("SELECT count(name) FROM sqlite_master WHERE type='table' AND name='prices'")
+        if cursor.fetchone()[0] == 1:
+            cursor.execute("DELETE FROM prices WHERE date_fetched = ?", (today_str,))
+            print(f"Cleared existing entries for {today_str} to prevent duplicates.")
+        else:
+            print("First run: Creating new 'prices' table.")
+        
+        # 2. Append new data (Creates table if it doesn't exist)
+        df.to_sql('prices', conn, if_exists='append', index=False)
+        
+        # 3. Optimize with Index
+        conn.execute("CREATE INDEX IF NOT EXISTS idx_card_date ON prices (id, date_fetched)")
+        
+        conn.commit()
+        conn.close()
+        
+        print(f"Success! {len(df)} cards updated for {today_str}.")
     else:
-        print("No card data was collected.")
+        print("\nNo data collected.")
 
 if __name__ == '__main__':
     main()
