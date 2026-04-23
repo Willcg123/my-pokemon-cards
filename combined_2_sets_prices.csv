@@ -1,0 +1,339 @@
+id,name,number,rarity,hp,types,set_id,set_name,price_type,market_price
+me2-1,Oddish,1,Common,50,Grass,me2,Phantasmal Flames,Normal,0.09
+me2-1,Oddish,1,Common,50,Grass,me2,Phantasmal Flames,Reverse Holo,0.2
+me2-2,Gloom,2,Common,70,Grass,me2,Phantasmal Flames,Normal,0.06
+me2-2,Gloom,2,Common,70,Grass,me2,Phantasmal Flames,Reverse Holo,0.2
+me2-3,Vileplume,3,Rare,150,Grass,me2,Phantasmal Flames,Holofoil,0.11
+me2-3,Vileplume,3,Rare,150,Grass,me2,Phantasmal Flames,Reverse Holo,0.29
+me2-4,Mega Heracross ex,4,Double Rare,280,Grass,me2,Phantasmal Flames,Holofoil,0.53
+me2-5,Lotad,5,Common,70,Grass,me2,Phantasmal Flames,Normal,0.11
+me2-5,Lotad,5,Common,70,Grass,me2,Phantasmal Flames,Reverse Holo,0.23
+me2-6,Lombre,6,Common,90,Grass,me2,Phantasmal Flames,Normal,0.1
+me2-6,Lombre,6,Common,90,Grass,me2,Phantasmal Flames,Reverse Holo,0.24
+me2-7,Ludicolo,7,Uncommon,160,Grass,me2,Phantasmal Flames,Normal,0.14
+me2-7,Ludicolo,7,Uncommon,160,Grass,me2,Phantasmal Flames,Reverse Holo,0.16
+me2-8,Genesect,8,Rare,120,Grass,me2,Phantasmal Flames,Holofoil,0.14
+me2-8,Genesect,8,Rare,120,Grass,me2,Phantasmal Flames,Reverse Holo,0.29
+me2-9,Nymble,9,Common,50,Grass,me2,Phantasmal Flames,Normal,0.13
+me2-9,Nymble,9,Common,50,Grass,me2,Phantasmal Flames,Reverse Holo,0.24
+me2-10,Lokix,10,Uncommon,120,Grass,me2,Phantasmal Flames,Normal,0.08
+me2-10,Lokix,10,Uncommon,120,Grass,me2,Phantasmal Flames,Reverse Holo,0.19
+me2-11,Charmander,11,Common,80,Fire,me2,Phantasmal Flames,Normal,0.19
+me2-11,Charmander,11,Common,80,Fire,me2,Phantasmal Flames,Reverse Holo,0.28
+me2-12,Charmeleon,12,Common,110,Fire,me2,Phantasmal Flames,Normal,0.14
+me2-12,Charmeleon,12,Common,110,Fire,me2,Phantasmal Flames,Reverse Holo,0.27
+me2-13,Mega Charizard X ex,13,Double Rare,360,Fire,me2,Phantasmal Flames,Holofoil,4.9
+me2-14,Moltres,14,Rare,120,Fire,me2,Phantasmal Flames,Holofoil,0.2
+me2-14,Moltres,14,Rare,120,Fire,me2,Phantasmal Flames,Reverse Holo,0.26
+me2-15,Darumaka,15,Common,80,Fire,me2,Phantasmal Flames,Normal,0.08
+me2-15,Darumaka,15,Common,80,Fire,me2,Phantasmal Flames,Reverse Holo,0.15
+me2-16,Darmanitan,16,Uncommon,150,Fire,me2,Phantasmal Flames,Normal,0.03
+me2-16,Darmanitan,16,Uncommon,150,Fire,me2,Phantasmal Flames,Reverse Holo,0.23
+me2-17,Reshiram,17,Rare,130,Fire,me2,Phantasmal Flames,Holofoil,0.15
+me2-17,Reshiram,17,Rare,130,Fire,me2,Phantasmal Flames,Reverse Holo,0.26
+me2-18,Oricorio ex,18,Double Rare,190,Fire,me2,Phantasmal Flames,Holofoil,0.46
+me2-19,Charcadet,19,Common,70,Fire,me2,Phantasmal Flames,Normal,0.08
+me2-19,Charcadet,19,Common,70,Fire,me2,Phantasmal Flames,Reverse Holo,0.21
+me2-20,Ceruledge,20,Uncommon,140,Fire,me2,Phantasmal Flames,Normal,0.13
+me2-20,Ceruledge,20,Uncommon,140,Fire,me2,Phantasmal Flames,Reverse Holo,0.25
+me2-21,Seel,21,Common,80,Water,me2,Phantasmal Flames,Normal,0.07
+me2-21,Seel,21,Common,80,Water,me2,Phantasmal Flames,Reverse Holo,0.19
+me2-22,Dewgong,22,Common,130,Water,me2,Phantasmal Flames,Normal,0.04
+me2-22,Dewgong,22,Common,130,Water,me2,Phantasmal Flames,Reverse Holo,0.23
+me2-23,Swinub,23,Common,70,Water,me2,Phantasmal Flames,Normal,0.04
+me2-23,Swinub,23,Common,70,Water,me2,Phantasmal Flames,Reverse Holo,0.21
+me2-24,Piloswine,24,Common,100,Water,me2,Phantasmal Flames,Normal,0.05
+me2-24,Piloswine,24,Common,100,Water,me2,Phantasmal Flames,Reverse Holo,0.19
+me2-25,Mamoswine,25,Uncommon,180,Water,me2,Phantasmal Flames,Normal,0.05
+me2-25,Mamoswine,25,Uncommon,180,Water,me2,Phantasmal Flames,Reverse Holo,0.22
+me2-26,Suicune,26,Rare,130,Water,me2,Phantasmal Flames,Holofoil,0.15
+me2-26,Suicune,26,Rare,130,Water,me2,Phantasmal Flames,Reverse Holo,0.2
+me2-27,Piplup,27,Common,70,Water,me2,Phantasmal Flames,Normal,0.14
+me2-27,Piplup,27,Common,70,Water,me2,Phantasmal Flames,Reverse Holo,0.21
+me2-28,Prinplup,28,Common,100,Water,me2,Phantasmal Flames,Normal,0.11
+me2-28,Prinplup,28,Common,100,Water,me2,Phantasmal Flames,Reverse Holo,0.21
+me2-29,Rotom ex,29,Double Rare,190,Lightning,me2,Phantasmal Flames,Holofoil,0.39
+me2-30,Yamper,30,Common,70,Lightning,me2,Phantasmal Flames,Normal,0.08
+me2-30,Yamper,30,Common,70,Lightning,me2,Phantasmal Flames,Reverse Holo,0.21
+me2-31,Boltund,31,Common,130,Lightning,me2,Phantasmal Flames,Normal,0.08
+me2-31,Boltund,31,Common,130,Lightning,me2,Phantasmal Flames,Reverse Holo,0.2
+me2-32,Pawmi,32,Common,60,Lightning,me2,Phantasmal Flames,Normal,0.09
+me2-32,Pawmi,32,Common,60,Lightning,me2,Phantasmal Flames,Reverse Holo,0.18
+me2-33,Pawmo,33,Common,90,Lightning,me2,Phantasmal Flames,Normal,0.07
+me2-33,Pawmo,33,Common,90,Lightning,me2,Phantasmal Flames,Reverse Holo,0.23
+me2-34,Pawmot,34,Rare,140,Lightning,me2,Phantasmal Flames,Holofoil,0.13
+me2-34,Pawmot,34,Rare,140,Lightning,me2,Phantasmal Flames,Reverse Holo,0.18
+me2-35,Misdreavus,35,Common,70,Psychic,me2,Phantasmal Flames,Normal,0.07
+me2-35,Misdreavus,35,Common,70,Psychic,me2,Phantasmal Flames,Reverse Holo,0.26
+me2-36,Mismagius ex,36,Double Rare,260,Psychic,me2,Phantasmal Flames,Holofoil,0.51
+me2-37,Snubbull,37,Common,70,Psychic,me2,Phantasmal Flames,Normal,0.07
+me2-37,Snubbull,37,Common,70,Psychic,me2,Phantasmal Flames,Reverse Holo,0.33
+me2-38,Granbull,38,Uncommon,130,Psychic,me2,Phantasmal Flames,Normal,0.02
+me2-38,Granbull,38,Uncommon,130,Psychic,me2,Phantasmal Flames,Reverse Holo,0.25
+me2-39,Cresselia,39,Uncommon,120,Psychic,me2,Phantasmal Flames,Normal,0.07
+me2-39,Cresselia,39,Uncommon,120,Psychic,me2,Phantasmal Flames,Reverse Holo,0.17
+me2-40,Meloetta,40,Uncommon,90,Psychic,me2,Phantasmal Flames,Normal,0.06
+me2-40,Meloetta,40,Uncommon,90,Psychic,me2,Phantasmal Flames,Reverse Holo,0.3
+me2-41,Mega Diancie ex,41,Double Rare,270,Psychic,me2,Phantasmal Flames,Holofoil,0.67
+me2-42,Mimikyu,42,Common,70,Psychic,me2,Phantasmal Flames,Normal,0.18
+me2-42,Mimikyu,42,Common,70,Psychic,me2,Phantasmal Flames,Reverse Holo,0.31
+me2-43,Milcery,43,Common,50,Psychic,me2,Phantasmal Flames,Normal,0.09
+me2-43,Milcery,43,Common,50,Psychic,me2,Phantasmal Flames,Reverse Holo,0.21
+me2-44,Alcremie,44,Uncommon,90,Psychic,me2,Phantasmal Flames,Normal,0.13
+me2-44,Alcremie,44,Uncommon,90,Psychic,me2,Phantasmal Flames,Reverse Holo,0.23
+me2-45,Zacian,45,Rare,130,Psychic,me2,Phantasmal Flames,Holofoil,0.17
+me2-45,Zacian,45,Rare,130,Psychic,me2,Phantasmal Flames,Reverse Holo,0.28
+me2-46,Bramblin,46,Common,50,Psychic,me2,Phantasmal Flames,Normal,0.07
+me2-46,Bramblin,46,Common,50,Psychic,me2,Phantasmal Flames,Reverse Holo,0.23
+me2-47,Brambleghast,47,Uncommon,100,Psychic,me2,Phantasmal Flames,Normal,0.06
+me2-47,Brambleghast,47,Uncommon,100,Psychic,me2,Phantasmal Flames,Reverse Holo,0.22
+me2-48,Paldean Tauros,48,Uncommon,130,Fighting,me2,Phantasmal Flames,Normal,0.13
+me2-48,Paldean Tauros,48,Uncommon,130,Fighting,me2,Phantasmal Flames,Reverse Holo,0.21
+me2-49,Gligar,49,Common,70,Fighting,me2,Phantasmal Flames,Normal,0.06
+me2-49,Gligar,49,Common,70,Fighting,me2,Phantasmal Flames,Reverse Holo,0.22
+me2-50,Gliscor,50,Uncommon,120,Fighting,me2,Phantasmal Flames,Normal,0.08
+me2-50,Gliscor,50,Uncommon,120,Fighting,me2,Phantasmal Flames,Reverse Holo,0.26
+me2-51,Trapinch,51,Common,70,Fighting,me2,Phantasmal Flames,Normal,0.09
+me2-51,Trapinch,51,Common,70,Fighting,me2,Phantasmal Flames,Reverse Holo,0.26
+me2-52,Vibrava,52,Common,90,Fighting,me2,Phantasmal Flames,Normal,0.11
+me2-52,Vibrava,52,Common,90,Fighting,me2,Phantasmal Flames,Reverse Holo,0.29
+me2-53,Flygon,53,Rare,150,Fighting,me2,Phantasmal Flames,Holofoil,0.14
+me2-53,Flygon,53,Rare,150,Fighting,me2,Phantasmal Flames,Reverse Holo,0.26
+me2-54,Gastly,54,Common,70,Darkness,me2,Phantasmal Flames,Normal,0.16
+me2-54,Gastly,54,Common,70,Darkness,me2,Phantasmal Flames,Reverse Holo,0.27
+me2-55,Haunter,55,Uncommon,100,Darkness,me2,Phantasmal Flames,Normal,0.07
+me2-55,Haunter,55,Uncommon,100,Darkness,me2,Phantasmal Flames,Reverse Holo,0.22
+me2-56,Mega Gengar ex,56,Double Rare,350,Darkness,me2,Phantasmal Flames,Holofoil,2.86
+me2-57,Murkrow,57,Common,60,Darkness,me2,Phantasmal Flames,Normal,0.09
+me2-57,Murkrow,57,Common,60,Darkness,me2,Phantasmal Flames,Reverse Holo,0.22
+me2-58,Honchkrow,58,Uncommon,130,Darkness,me2,Phantasmal Flames,Normal,0.07
+me2-58,Honchkrow,58,Uncommon,130,Darkness,me2,Phantasmal Flames,Reverse Holo,0.16
+me2-59,Sableye,59,Common,80,Darkness,me2,Phantasmal Flames,Normal,0.14
+me2-59,Sableye,59,Common,80,Darkness,me2,Phantasmal Flames,Reverse Holo,0.29
+me2-60,Carvanha,60,Common,70,Darkness,me2,Phantasmal Flames,Normal,0.16
+me2-60,Carvanha,60,Common,70,Darkness,me2,Phantasmal Flames,Reverse Holo,0.25
+me2-61,Mega Sharpedo ex,61,Double Rare,330,Darkness,me2,Phantasmal Flames,Holofoil,0.7
+me2-62,Seviper,62,Uncommon,120,Darkness,me2,Phantasmal Flames,Normal,0.07
+me2-62,Seviper,62,Uncommon,120,Darkness,me2,Phantasmal Flames,Reverse Holo,0.23
+me2-63,Absol,63,Common,110,Darkness,me2,Phantasmal Flames,Normal,0.12
+me2-63,Absol,63,Common,110,Darkness,me2,Phantasmal Flames,Reverse Holo,0.26
+me2-64,Sandile,64,Common,70,Darkness,me2,Phantasmal Flames,Normal,0.03
+me2-64,Sandile,64,Common,70,Darkness,me2,Phantasmal Flames,Reverse Holo,0.2
+me2-65,Krokorok,65,Common,100,Darkness,me2,Phantasmal Flames,Normal,0.06
+me2-65,Krokorok,65,Common,100,Darkness,me2,Phantasmal Flames,Reverse Holo,0.23
+me2-66,Krookodile,66,Uncommon,170,Darkness,me2,Phantasmal Flames,Normal,0.08
+me2-66,Krookodile,66,Uncommon,170,Darkness,me2,Phantasmal Flames,Reverse Holo,0.22
+me2-67,Toxel,67,Common,70,Darkness,me2,Phantasmal Flames,Normal,0.2
+me2-67,Toxel,67,Common,70,Darkness,me2,Phantasmal Flames,Reverse Holo,0.2
+me2-68,Toxtricity,68,Rare,140,Darkness,me2,Phantasmal Flames,Holofoil,0.1
+me2-68,Toxtricity,68,Rare,140,Darkness,me2,Phantasmal Flames,Reverse Holo,0.17
+me2-69,Eternatus,69,Uncommon,150,Darkness,me2,Phantasmal Flames,Normal,0.11
+me2-69,Eternatus,69,Uncommon,150,Darkness,me2,Phantasmal Flames,Reverse Holo,0.27
+me2-70,Empoleon ex,70,Double Rare,320,Metal,me2,Phantasmal Flames,Holofoil,0.56
+me2-71,Bronzor,71,Common,80,Metal,me2,Phantasmal Flames,Normal,0.08
+me2-71,Bronzor,71,Common,80,Metal,me2,Phantasmal Flames,Reverse Holo,0.19
+me2-72,Bronzong,72,Uncommon,140,Metal,me2,Phantasmal Flames,Normal,0.08
+me2-72,Bronzong,72,Uncommon,140,Metal,me2,Phantasmal Flames,Reverse Holo,0.25
+me2-73,Togedemaru,73,Common,80,Metal,me2,Phantasmal Flames,Normal,0.06
+me2-73,Togedemaru,73,Common,80,Metal,me2,Phantasmal Flames,Reverse Holo,0.23
+me2-74,Duraludon,74,Common,130,Metal,me2,Phantasmal Flames,Normal,0.05
+me2-74,Duraludon,74,Common,130,Metal,me2,Phantasmal Flames,Reverse Holo,0.19
+me2-75,Archaludon,75,Uncommon,180,Metal,me2,Phantasmal Flames,Normal,0.08
+me2-75,Archaludon,75,Uncommon,180,Metal,me2,Phantasmal Flames,Reverse Holo,0.2
+me2-76,Jigglypuff,76,Common,70,Colorless,me2,Phantasmal Flames,Normal,0.13
+me2-76,Jigglypuff,76,Common,70,Colorless,me2,Phantasmal Flames,Reverse Holo,0.25
+me2-77,Wigglytuff,77,Uncommon,120,Colorless,me2,Phantasmal Flames,Normal,0.09
+me2-77,Wigglytuff,77,Uncommon,120,Colorless,me2,Phantasmal Flames,Reverse Holo,0.18
+me2-78,Aipom,78,Common,70,Colorless,me2,Phantasmal Flames,Normal,0.1
+me2-78,Aipom,78,Common,70,Colorless,me2,Phantasmal Flames,Reverse Holo,0.17
+me2-79,Ambipom,79,Rare,110,Colorless,me2,Phantasmal Flames,Holofoil,0.09
+me2-79,Ambipom,79,Rare,110,Colorless,me2,Phantasmal Flames,Reverse Holo,0.29
+me2-80,Smeargle,80,Common,80,Colorless,me2,Phantasmal Flames,Normal,0.05
+me2-80,Smeargle,80,Common,80,Colorless,me2,Phantasmal Flames,Reverse Holo,0.19
+me2-81,Zigzagoon,81,Common,70,Colorless,me2,Phantasmal Flames,Normal,0.06
+me2-81,Zigzagoon,81,Common,70,Colorless,me2,Phantasmal Flames,Reverse Holo,0.25
+me2-82,Linoone,82,Uncommon,100,Colorless,me2,Phantasmal Flames,Normal,0.07
+me2-82,Linoone,82,Uncommon,100,Colorless,me2,Phantasmal Flames,Reverse Holo,0.22
+me2-83,Buneary,83,Common,70,Colorless,me2,Phantasmal Flames,Normal,0.13
+me2-83,Buneary,83,Common,70,Colorless,me2,Phantasmal Flames,Reverse Holo,0.22
+me2-84,Mega Lopunny ex,84,Double Rare,330,Colorless,me2,Phantasmal Flames,Holofoil,0.5
+me2-85,Battle Cage,85,Uncommon,,,me2,Phantasmal Flames,Normal,0.2
+me2-85,Battle Cage,85,Uncommon,,,me2,Phantasmal Flames,Reverse Holo,0.31
+me2-86,Blowtorch,86,Uncommon,,,me2,Phantasmal Flames,Normal,0.1
+me2-86,Blowtorch,86,Uncommon,,,me2,Phantasmal Flames,Reverse Holo,0.21
+me2-87,Dawn,87,Uncommon,,,me2,Phantasmal Flames,Normal,0.16
+me2-87,Dawn,87,Uncommon,,,me2,Phantasmal Flames,Reverse Holo,0.26
+me2-88,Dizzying Valley,88,Uncommon,,,me2,Phantasmal Flames,Normal,0.07
+me2-88,Dizzying Valley,88,Uncommon,,,me2,Phantasmal Flames,Reverse Holo,0.17
+me2-89,Firebreather,89,Uncommon,,,me2,Phantasmal Flames,Normal,0.14
+me2-89,Firebreather,89,Uncommon,,,me2,Phantasmal Flames,Reverse Holo,0.23
+me2-90,Grimsley's Move,90,Uncommon,,,me2,Phantasmal Flames,Normal,0.08
+me2-90,Grimsley's Move,90,Uncommon,,,me2,Phantasmal Flames,Reverse Holo,0.21
+me2-91,Jumbo Ice Cream,91,Uncommon,,,me2,Phantasmal Flames,Normal,0.16
+me2-91,Jumbo Ice Cream,91,Uncommon,,,me2,Phantasmal Flames,Reverse Holo,0.24
+me2-92,Punk Helmet,92,Uncommon,,,me2,Phantasmal Flames,Normal,0.12
+me2-92,Punk Helmet,92,Uncommon,,,me2,Phantasmal Flames,Reverse Holo,0.16
+me2-93,Sacred Charm,93,Uncommon,,,me2,Phantasmal Flames,Normal,0.09
+me2-93,Sacred Charm,93,Uncommon,,,me2,Phantasmal Flames,Reverse Holo,0.2
+me2-94,Wondrous Patch,94,Uncommon,,,me2,Phantasmal Flames,Normal,0.17
+me2-94,Wondrous Patch,94,Uncommon,,,me2,Phantasmal Flames,Reverse Holo,0.22
+me2-95,Ludicolo,95,Illustration Rare,160,Grass,me2,Phantasmal Flames,Holofoil,2.49
+me2-96,Nymble,96,Illustration Rare,50,Grass,me2,Phantasmal Flames,Holofoil,1.54
+me2-97,Dewgong,97,Illustration Rare,130,Water,me2,Phantasmal Flames,Holofoil,4.54
+me2-98,Piplup,98,Illustration Rare,70,Water,me2,Phantasmal Flames,Holofoil,15.74
+me2-99,Yamper,99,Illustration Rare,70,Lightning,me2,Phantasmal Flames,Holofoil,2.94
+me2-100,Zacian,100,Illustration Rare,130,Psychic,me2,Phantasmal Flames,Holofoil,3.51
+me2-101,Flygon,101,Illustration Rare,150,Fighting,me2,Phantasmal Flames,Holofoil,4.64
+me2-102,Paldean Wooper,102,Illustration Rare,60,Darkness,me2,Phantasmal Flames,Holofoil,3.84
+me2-103,Toxtricity,103,Illustration Rare,140,Darkness,me2,Phantasmal Flames,Holofoil,2.0
+me2-104,Togedemaru,104,Illustration Rare,80,Metal,me2,Phantasmal Flames,Holofoil,2.06
+me2-105,Wigglytuff,105,Illustration Rare,120,Colorless,me2,Phantasmal Flames,Holofoil,5.57
+me2-106,Meowth,106,Illustration Rare,70,Colorless,me2,Phantasmal Flames,Holofoil,18.75
+me2-107,Ambipom,107,Illustration Rare,110,Colorless,me2,Phantasmal Flames,Holofoil,2.26
+me2-108,Mega Heracross ex,108,Ultra Rare,280,Grass,me2,Phantasmal Flames,Holofoil,2.14
+me2-109,Mega Charizard X ex,109,Ultra Rare,360,Fire,me2,Phantasmal Flames,Holofoil,35.03
+me2-110,Oricorio ex,110,Ultra Rare,190,Fire,me2,Phantasmal Flames,Holofoil,1.59
+me2-111,Rotom ex,111,Ultra Rare,190,Lightning,me2,Phantasmal Flames,Holofoil,1.56
+me2-112,Mismagius ex,112,Ultra Rare,260,Psychic,me2,Phantasmal Flames,Holofoil,1.58
+me2-113,Mega Sharpedo ex,113,Ultra Rare,330,Darkness,me2,Phantasmal Flames,Holofoil,2.74
+me2-114,Empoleon ex,114,Ultra Rare,320,Metal,me2,Phantasmal Flames,Holofoil,2.22
+me2-115,Mega Lopunny ex,115,Ultra Rare,330,Colorless,me2,Phantasmal Flames,Holofoil,2.8
+me2-116,Battle Cage,116,Ultra Rare,,,me2,Phantasmal Flames,Holofoil,2.19
+me2-117,Blowtorch,117,Ultra Rare,,,me2,Phantasmal Flames,Holofoil,0.84
+me2-118,Dawn,118,Ultra Rare,,,me2,Phantasmal Flames,Holofoil,8.19
+me2-119,Firebreather,119,Ultra Rare,,,me2,Phantasmal Flames,Holofoil,1.21
+me2-120,Grimsley's Move,120,Ultra Rare,,,me2,Phantasmal Flames,Holofoil,1.33
+me2-121,Punk Helmet,121,Ultra Rare,,,me2,Phantasmal Flames,Holofoil,0.92
+me2-122,Sacred Charm,122,Ultra Rare,,,me2,Phantasmal Flames,Holofoil,0.64
+me2-123,Switch,123,Ultra Rare,,,me2,Phantasmal Flames,Holofoil,1.83
+me2-124,Ignition Energy,124,Ultra Rare,,,me2,Phantasmal Flames,Holofoil,2.39
+me2-125,Mega Charizard X ex,125,Special Illustration Rare,360,Fire,me2,Phantasmal Flames,Holofoil,851.23
+me2-126,Rotom ex,126,Special Illustration Rare,190,Lightning,me2,Phantasmal Flames,Holofoil,20.09
+me2-127,Mega Sharpedo ex,127,Special Illustration Rare,330,Darkness,me2,Phantasmal Flames,Holofoil,25.42
+me2-128,Mega Lopunny ex,128,Special Illustration Rare,330,Colorless,me2,Phantasmal Flames,Holofoil,19.65
+me2-129,Dawn,129,Special Illustration Rare,,,me2,Phantasmal Flames,Holofoil,29.78
+me2-130,Mega Charizard X ex,130,Mega Hyper Rare,360,Fire,me2,Phantasmal Flames,Holofoil,350.43
+me3-1,Spinarak,1,Common,60,Grass,me3,Perfect Order,Unknown,
+me3-7,Scatterbug,7,Common,40,Grass,me3,Perfect Order,Unknown,
+me3-8,Spewpa,8,Common,80,Grass,me3,Perfect Order,Unknown,
+me3-15,Salandit,15,Common,70,Fire,me3,Perfect Order,Unknown,
+me3-16,Salazzle ex,16,Double Rare,260,Fire,me3,Perfect Order,Unknown,
+me3-17,Turtonator,17,Uncommon,120,Fire,me3,Perfect Order,Unknown,
+me3-20,Staryu,20,Common,70,Water,me3,Perfect Order,Unknown,
+me3-21,Mega Starmie ex,21,Double Rare,330,Water,me3,Perfect Order,Unknown,
+me3-27,Luxio,27,Uncommon,90,Lightning,me3,Perfect Order,Unknown,
+me3-28,Luxray,28,Rare,150,Lightning,me3,Perfect Order,Unknown,
+me3-32,Mawile,32,Common,110,Psychic,me3,Perfect Order,Unknown,
+me3-33,Espurr,33,Common,60,Psychic,me3,Perfect Order,Unknown,
+me3-34,Meowstic,34,Uncommon,100,Psychic,me3,Perfect Order,Unknown,
+me3-36,Aromatisse,36,Uncommon,120,Psychic,me3,Perfect Order,Unknown,
+me3-37,Nosepass,37,Common,90,Fighting,me3,Perfect Order,Unknown,
+me3-3,Shaymin,3,Uncommon,70,Grass,me3,Perfect Order,Unknown,
+me3-5,Servine,5,Common,100,Grass,me3,Perfect Order,Unknown,
+me3-10,Rowlet,10,Common,80,Grass,me3,Perfect Order,Unknown,
+me3-13,Fletchinder,13,Common,90,Fire,me3,Perfect Order,Unknown,
+me3-14,Talonflame,14,Uncommon,150,Fire,me3,Perfect Order,Unknown,
+me3-18,Seel,18,Common,80,Water,me3,Perfect Order,Unknown,
+me3-26,Shinx,26,Common,70,Lightning,me3,Perfect Order,Unknown,
+me3-35,Spritzee,35,Common,70,Psychic,me3,Perfect Order,Unknown,
+me3-9,Vivillon,9,Uncommon,120,Grass,me3,Perfect Order,Unknown,
+me3-19,Dewgong,19,Rare,130,Water,me3,Perfect Order,Unknown,
+me3-22,Lapras ex,22,Double Rare,210,Water,me3,Perfect Order,Unknown,
+me3-24,Aurorus,24,Rare,170,Water,me3,Perfect Order,Unknown,
+me3-25,Volcanion,25,Uncommon,130,Water,me3,Perfect Order,Unknown,
+me3-29,Dedenne,29,Common,70,Lightning,me3,Perfect Order,Unknown,
+me3-30,Clefairy,30,Common,70,Psychic,me3,Perfect Order,Unknown,
+me3-2,Ariados,2,Common,110,Grass,me3,Perfect Order,Unknown,
+me3-4,Snivy,4,Common,70,Grass,me3,Perfect Order,Unknown,
+me3-6,Serperior,6,Rare,160,Grass,me3,Perfect Order,Unknown,
+me3-11,Dartrix,11,Common,100,Grass,me3,Perfect Order,Unknown,
+me3-12,Decidueye ex,12,Double Rare,320,Grass,me3,Perfect Order,Unknown,
+me3-23,Amaura,23,Common,100,Water,me3,Perfect Order,Unknown,
+me3-31,Mega Clefable ex,31,Double Rare,320,Psychic,me3,Perfect Order,Unknown,
+me3-38,Probopass,38,Common,140,Fighting,me3,Perfect Order,Unknown,
+me3-39,Hippopotas,39,Common,100,Fighting,me3,Perfect Order,Unknown,
+me3-40,Hippowdon,40,Uncommon,150,Fighting,me3,Perfect Order,Unknown,
+me3-41,Landorus,41,Rare,120,Fighting,me3,Perfect Order,Unknown,
+me3-42,Binacle,42,Common,80,Fighting,me3,Perfect Order,Unknown,
+me3-43,Barbaracle,43,Uncommon,130,Fighting,me3,Perfect Order,Unknown,
+me3-44,Tyrunt,44,Common,100,Fighting,me3,Perfect Order,Unknown,
+me3-45,Tyrantrum,45,Rare,180,Fighting,me3,Perfect Order,Unknown,
+me3-46,Hawlucha,46,Common,70,Fighting,me3,Perfect Order,Unknown,
+me3-47,Mega Zygarde ex,47,Double Rare,310,Fighting,me3,Perfect Order,Unknown,
+me3-51,Skorupi,51,Common,80,Darkness,me3,Perfect Order,Unknown,
+me3-53,Yveltal ex,53,Double Rare,210,Darkness,me3,Perfect Order,Unknown,
+me3-55,Mega Skarmory ex,55,Double Rare,260,Metal,me3,Perfect Order,Unknown,
+me3-56,Honedge,56,Common,70,Metal,me3,Perfect Order,Unknown,
+me3-57,Doublade,57,Common,100,Metal,me3,Perfect Order,Unknown,
+me3-48,Gastly,48,Common,70,Darkness,me3,Perfect Order,Unknown,
+me3-49,Haunter,49,Common,100,Darkness,me3,Perfect Order,Unknown,
+me3-52,Drapion,52,Uncommon,140,Darkness,me3,Perfect Order,Unknown,
+me3-58,Aegislash,58,Uncommon,150,Metal,me3,Perfect Order,Unknown,
+me3-59,Klefki,59,Common,70,Metal,me3,Perfect Order,Unknown,
+me3-50,Gengar,50,Rare,130,Darkness,me3,Perfect Order,Unknown,
+me3-54,Chien-Pao,54,Rare,120,Darkness,me3,Perfect Order,Unknown,
+me3-60,Rattata,60,Common,40,Colorless,me3,Perfect Order,Unknown,
+me3-62,Meowth ex,62,Double Rare,170,Colorless,me3,Perfect Order,Unknown,
+me3-61,Raticate,61,Uncommon,90,Colorless,me3,Perfect Order,Unknown,
+me3-63,Snorlax,63,Common,160,Colorless,me3,Perfect Order,Unknown,
+me3-64,Bunnelby,64,Common,70,Colorless,me3,Perfect Order,Unknown,
+me3-65,Diggersby,65,Uncommon,150,Colorless,me3,Perfect Order,Unknown,
+me3-66,Fletchling,66,Common,60,Colorless,me3,Perfect Order,Unknown,
+me3-67,Furfrou,67,Common,90,Colorless,me3,Perfect Order,Unknown,
+me3-68,Antique Jaw Fossil,68,Common,60,,me3,Perfect Order,Unknown,
+me3-69,Antique Sail Fossil,69,Common,60,,me3,Perfect Order,Unknown,
+me3-70,Core Memory,70,Uncommon,,,me3,Perfect Order,Unknown,
+me3-71,Crushing Hammer,71,Common,,,me3,Perfect Order,Unknown,
+me3-72,Energy Search,72,Common,,,me3,Perfect Order,Unknown,
+me3-73,Energy Swatter,73,Uncommon,,,me3,Perfect Order,Unknown,
+me3-74,Hole-Digging Shovel,74,Common,,,me3,Perfect Order,Unknown,
+me3-75,Jacinthe,75,Uncommon,,,me3,Perfect Order,Unknown,
+me3-76,Judge,76,Uncommon,,,me3,Perfect Order,Unknown,
+me3-77,Lumiose City,77,Uncommon,,,me3,Perfect Order,Unknown,
+me3-79,Naveen,79,Uncommon,,,me3,Perfect Order,Unknown,
+me3-78,Lumiose Galette,78,Uncommon,,,me3,Perfect Order,Unknown,
+me3-80,Poké Ball,80,Common,,,me3,Perfect Order,Unknown,
+me3-81,Poké Pad,81,Uncommon,,,me3,Perfect Order,Unknown,
+me3-82,Pokémon Catcher,82,Common,,,me3,Perfect Order,Unknown,
+me3-83,Potion,83,Common,,,me3,Perfect Order,Unknown,
+me3-84,Rosa's Encouragement,84,Uncommon,,,me3,Perfect Order,Unknown,
+me3-85,Tarragon,85,Uncommon,,,me3,Perfect Order,Unknown,
+me3-86,Growing Grass Energy,86,Rare,,,me3,Perfect Order,Unknown,
+me3-87,Rocky Fighting Energy,87,Rare,,,me3,Perfect Order,Unknown,
+me3-88,Telepathic Psychic Energy,88,Rare,,,me3,Perfect Order,Unknown,
+me3-89,Spewpa,89,Illustration Rare,80,Grass,me3,Perfect Order,Unknown,
+me3-90,Rowlet,90,Illustration Rare,80,Grass,me3,Perfect Order,Unknown,
+me3-91,Talonflame,91,Illustration Rare,150,Fire,me3,Perfect Order,Unknown,
+me3-92,Aurorus,92,Illustration Rare,170,Water,me3,Perfect Order,Unknown,
+me3-93,Dedenne,93,Illustration Rare,70,Lightning,me3,Perfect Order,Unknown,
+me3-94,Clefairy,94,Illustration Rare,70,Psychic,me3,Perfect Order,Unknown,
+me3-95,Espurr,95,Illustration Rare,60,Psychic,me3,Perfect Order,Unknown,
+me3-96,Probopass,96,Illustration Rare,140,Fighting,me3,Perfect Order,Unknown,
+me3-97,Drapion,97,Illustration Rare,140,Darkness,me3,Perfect Order,Unknown,
+me3-98,Doublade,98,Illustration Rare,100,Metal,me3,Perfect Order,Unknown,
+me3-99,Raticate,99,Illustration Rare,90,Colorless,me3,Perfect Order,Unknown,
+me3-100,Decidueye ex,100,Ultra Rare,320,Grass,me3,Perfect Order,Unknown,
+me3-101,Salazzle ex,101,Ultra Rare,260,Fire,me3,Perfect Order,Unknown,
+me3-102,Mega Starmie ex,102,Ultra Rare,330,Water,me3,Perfect Order,Unknown,
+me3-103,Mega Clefable ex,103,Ultra Rare,320,Psychic,me3,Perfect Order,Unknown,
+me3-104,Mega Zygarde ex,104,Ultra Rare,310,Fighting,me3,Perfect Order,Unknown,
+me3-105,Yveltal ex,105,Ultra Rare,210,Darkness,me3,Perfect Order,Unknown,
+me3-106,Mega Skarmory ex,106,Ultra Rare,260,Metal,me3,Perfect Order,Unknown,
+me3-107,Meowth ex,107,Ultra Rare,170,Colorless,me3,Perfect Order,Unknown,
+me3-108,Energy Recycler,108,Ultra Rare,,,me3,Perfect Order,Unknown,
+me3-109,Forest of Vitality,109,Ultra Rare,,,me3,Perfect Order,Unknown,
+me3-110,Jacinthe,110,Ultra Rare,,,me3,Perfect Order,Unknown,
+me3-111,Lumiose City,111,Ultra Rare,,,me3,Perfect Order,Unknown,
+me3-112,Naveen,112,Ultra Rare,,,me3,Perfect Order,Unknown,
+me3-113,Poké Pad,113,Ultra Rare,,,me3,Perfect Order,Unknown,
+me3-114,Rosa's Encouragement,114,Ultra Rare,,,me3,Perfect Order,Unknown,
+me3-115,Sacred Ash,115,Ultra Rare,,,me3,Perfect Order,Unknown,
+me3-116,Tarragon,116,Ultra Rare,,,me3,Perfect Order,Unknown,
+me3-117,Wondrous Patch,117,Ultra Rare,,,me3,Perfect Order,Unknown,
+me3-118,Mega Starmie ex,118,Special Illustration Rare,330,Water,me3,Perfect Order,Unknown,
+me3-119,Mega Clefable ex,119,Special Illustration Rare,320,Psychic,me3,Perfect Order,Unknown,
+me3-120,Mega Zygarde ex,120,Special Illustration Rare,310,Fighting,me3,Perfect Order,Unknown,
+me3-121,Meowth ex,121,Special Illustration Rare,170,Colorless,me3,Perfect Order,Unknown,
+me3-122,Jacinthe,122,Special Illustration Rare,,,me3,Perfect Order,Unknown,
+me3-123,Rosa's Encouragement,123,Special Illustration Rare,,,me3,Perfect Order,Unknown,
+me3-124,Mega Zygarde ex,124,Mega Hyper Rare,310,Fighting,me3,Perfect Order,Unknown,
